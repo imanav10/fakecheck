@@ -25,7 +25,7 @@ Before you begin, ensure you have the following:
 
 ## Usage
 
-1. Run the script by executing the following command:python code.py
+1. Run the script by executing the following command:python `code.py`
 2. Enter the Twitter username you want to check for fake followers when prompted.
 3. The script will calculate a fake percentage based on the user's followers count and tweets count and display the result.
 
